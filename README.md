@@ -46,5 +46,4 @@
 
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hkh1284" width="500rem" />
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hkh1284" height="242px"/>
 </div>
