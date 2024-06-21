@@ -1,3 +1,7 @@
+## 2학기 목표
+- 실제로 서비스해서 유지보수까지 수행하는 프로젝트를 하고 싶습니다.
+- 실시간 데이터 처리를 경험해보고 싶습니다.
+
 ## Languae
 <div>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -42,6 +46,7 @@
  <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"/>
 </div>
 
+<br>
 <br>
 
 <div align="center">
