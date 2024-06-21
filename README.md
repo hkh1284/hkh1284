@@ -1,6 +1,3 @@
-<!-- Header  -->
-<img src="https://capsule-render.vercel.app/api?type=Rounded&color=FFFFFF&height=140&section=header&text=Hello!%20I'm%20Root&fontColor=223a5e&fontSize=70" />
-
 ## Languae
 <div>
  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
